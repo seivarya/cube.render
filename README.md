@@ -1,2 +1,1 @@
-# cube.render
-minimal canvas demonstration of 3D cube rotation using rodrigues' rotation formula
+[rodrigues' rotation formula](https://en.wikipedia.org/wiki/Rodrigues'_rotation_formula)
